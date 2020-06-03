@@ -1,0 +1,12 @@
+.gitignore
+.eslintignore
+.eslintrc.json
+jest.config.json
+tsconfig.json
+*.tsbuildinfo
+.vscode
+src
+coverage
+docs
+test
+dist/test

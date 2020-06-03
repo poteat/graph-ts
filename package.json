@@ -1,0 +1,65 @@
+{
+  "name": "graph-ts",
+  "version": "1.0.0",
+  "description": "A collection of algorithms for graph traversal and computation",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint . --ext .ts,.js,.md -c .eslintrc.json --fix",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Michael Poteat <me@mpote.at>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/poteat/graph-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/poteat/graph-ts/issues"
+  },
+  "homepage": "https://github.com/poteat/graph-ts#readme",
+  "devDependencies": {
+    "@getify/eslint-plugin-proper-arrows": "^9.1.1",
+    "@types/jest": "^25.2.3",
+    "@types/lodash": "^4.14.154",
+    "@types/node": "^14.0.9",
+    "@types/uuid": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-adjunct": "^4.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-array-func": "^3.1.6",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.0.2",
+    "eslint-plugin-jest": "^23.13.2",
+    "eslint-plugin-jest-async": "^1.0.3",
+    "eslint-plugin-json-format": "^2.0.1",
+    "eslint-plugin-lodash": "^7.1.0",
+    "eslint-plugin-lodash-fp": "^2.2.0-a1",
+    "eslint-plugin-markdown": "^1.0.2",
+    "eslint-plugin-no-constructor-bind": "^2.0.0",
+    "eslint-plugin-no-secrets": "^0.6.8",
+    "eslint-plugin-no-use-extend-native": "^0.5.0",
+    "eslint-plugin-only-error": "^1.0.2",
+    "eslint-plugin-optimize-regex": "^1.2.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^5.0.3",
+    "eslint-plugin-sonarjs": "^0.5.0",
+    "eslint-plugin-switch-case": "^1.1.2",
+    "eslint-plugin-unicorn": "^20.1.0",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "ts-jest": "^26.1.0",
+    "ts-loader": "^7.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "ts-toolbelt": "^6.9.4",
+    "uuid": "^8.1.0"
+  }
+}

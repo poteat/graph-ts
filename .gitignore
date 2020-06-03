@@ -1,0 +1,13 @@
+node_modules
+dist
+coverage
+*.tsbuildinfo
+*.d.ts
+*.d.ts.map
+coverage
+*.js.maplib
+*.log
+package-lock.json
+yarn.lock
+*.js
+!jest.config.js
