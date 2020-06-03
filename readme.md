@@ -6,9 +6,7 @@ A collection of algorithms and experiments involving graph traversal and computa
 
 * SSTT: [Single Server Total Tardiness](./docs/problemDescription.ts)
 
-## License
-
-ISC License
+## License (ISC)
 
 Copyright 2020 Michael Poteat
 
