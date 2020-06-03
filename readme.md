@@ -4,7 +4,7 @@ A collection of algorithms and experiments involving graph traversal and computa
 
 ## Problems
 
-* SSTT: [Single Server Total Tardiness](./docs/problemDescription.ts)
+* SSTT: [Single Server Total Tardiness](./docs/problemDescription.md)
 
 ## License (ISC)
 
